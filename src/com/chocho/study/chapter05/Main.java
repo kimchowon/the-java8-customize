@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * Stream
+ */
 public class Main {
 
     public static void main(String[] args) {
@@ -17,7 +20,7 @@ public class Main {
         Stream<String> stringStream = names.stream().map(String::toUpperCase);
         names.forEach(System.out::println);
 
-        // 실행 안됨
+        // 중개 오퍼레이션 만으로는 실행 안됨.
         names.stream().map((s) -> {
             System.out.println(s);
             return s.toUpperCase();
@@ -31,7 +34,7 @@ public class Main {
             return s.toUpperCase();
         }).collect(Collectors.toList());
 
-        //  collect.forEach(System.out::println);
+        collect.forEach(System.out::println);
 
         // 스트림 없는 일반 코드 - 병렬 처리가 안된다.
         System.out.println("----------------------일반 코드-----------------------");
@@ -47,6 +50,5 @@ public class Main {
             System.out.println(s + " " + Thread.currentThread().getName());
             return s.toUpperCase();
         }).collect(Collectors.toList());
-
     }
 }

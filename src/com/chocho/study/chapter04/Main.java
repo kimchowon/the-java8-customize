@@ -5,6 +5,9 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
+/**
+ * 메소드 레퍼런스
+ */
 public class Main {
 
     public static void main(String[] args) {

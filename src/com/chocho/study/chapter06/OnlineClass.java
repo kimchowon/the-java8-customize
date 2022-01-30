@@ -13,8 +13,7 @@ public class OnlineClass {
         this.title = title;
         this.closed = closed;
     }
-
-
+    
     public Integer getId() {
         return id;
     }

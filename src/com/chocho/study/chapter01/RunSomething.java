@@ -9,7 +9,7 @@ public interface RunSomething {
 
     // default method
     default void printName() {
-        System.out.println("chowon.");
+        System.out.println("chowon");
     }
 
     // static method

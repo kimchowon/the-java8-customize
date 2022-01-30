@@ -4,7 +4,7 @@ import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 /**
- * 3.람다 표현식
+ * 람다 표현식
  */
 public class Main {
     public static void main(String[] args) {
