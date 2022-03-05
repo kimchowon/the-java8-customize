@@ -1,10 +1,13 @@
-package com.chocho.study.chapter09;
+package com.chocho.study.chapter05.chapter05_1;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
+/**
+ * 5-1.Date and Time
+ */
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {

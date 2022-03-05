@@ -1,4 +1,4 @@
-package com.chocho.study.chapter14;
+package com.chocho.study.chapter06.chapter06_4;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
@@ -6,7 +6,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * CompletableFuture 1
+ * 6-4.CompletableFuture 1
  */
 public class Main {
 

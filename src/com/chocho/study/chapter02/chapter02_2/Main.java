@@ -7,7 +7,7 @@ import java.util.Spliterator;
 import java.util.stream.Collectors;
 
 /**
- * 2-2.자바8 API에 추가된 기본 메소드와 스태틱 메소드
+ * 2-2.java8 API에 추가된 기본 메소드와 스태틱 메소드
  */
 public class Main {
 

@@ -1,20 +1,16 @@
-package com.chocho.study.chapter08;
+package com.chocho.study.chapter04.chapter04_1;
+
+import java.util.Optional;
 
 public class OnlineClass {
+
     private Integer id;
 
     private String title;
 
     private boolean isClosed;
 
-    public OnlineClass(Integer id, String title, boolean isClosed) {
-        this.id = id;
-        this.title = title;
-        this.isClosed = isClosed;
-    }
-
-    public OnlineClass() {
-    }
+    private Progress progress;
 
     public Integer getId() {
         return id;
@@ -38,5 +34,15 @@ public class OnlineClass {
 
     public void setClosed(boolean closed) {
         isClosed = closed;
+    }
+
+    public Progress getProgress() {
+        return progress;
+    }
+
+    public void setProgress(Optional<Progress> progress) {
+        if (progress != null) {
+            progress.ifPresent(p -> this.progress = p);
+        }
     }
 }

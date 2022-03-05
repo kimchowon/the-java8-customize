@@ -1,4 +1,4 @@
-package com.chocho.study.chapter15;
+package com.chocho.study.chapter06.chapter06_5;
 
 import java.io.Serializable;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.stream.Collectors;
 
 /**
- * CompletableFuture 2
+ * 6-5.CompletableFuture 2
  */
 public class Main {
 

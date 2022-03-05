@@ -1,7 +1,7 @@
-package com.chocho.study.chapter11;
+package com.chocho.study.chapter06.chapter06_1;
 
 /**
- * Concurrent 프로그래밍
+ * 6-1.Concurrent Programming
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException {

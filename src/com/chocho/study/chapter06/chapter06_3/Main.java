@@ -1,4 +1,4 @@
-package com.chocho.study.chapter13;
+package com.chocho.study.chapter06.chapter06_3;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 /**
- * 13.Callable, Future
+ * 6-3.Callable, Future
  */
 public class Main {
 

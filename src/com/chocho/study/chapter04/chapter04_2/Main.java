@@ -1,9 +1,12 @@
-package com.chocho.study.chapter08;
+package com.chocho.study.chapter04.chapter04_2;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * 4-2.Optional API
+ */
 public class Main {
 
     public static void main(String[] args) {

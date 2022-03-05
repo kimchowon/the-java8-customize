@@ -1,4 +1,4 @@
-package com.chocho.study.chapter07;
+package com.chocho.study.chapter04.chapter04_1;
 
 import java.time.Duration;
 

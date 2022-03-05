@@ -1,4 +1,4 @@
-package com.chocho.study.chapter10;
+package com.chocho.study.chapter05.chapter05_2;
 
 import java.time.Duration;
 import java.time.Instant;
@@ -15,7 +15,7 @@ import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
 /**
- * Date와 Time API
+ * 5-2.Date and Time API
  */
 public class Main {
 
