@@ -1,4 +1,4 @@
-package com.chocho.study.chapter06;
+package com.chocho.study.chapter03.chapter03_2;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Stream API
+ * 3-2.Stream API
  */
 public class Main {
 

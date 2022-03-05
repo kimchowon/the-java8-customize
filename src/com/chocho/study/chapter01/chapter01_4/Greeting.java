@@ -1,4 +1,4 @@
-package com.chocho.study.chapter04;
+package com.chocho.study.chapter01.chapter01_4;
 
 public class Greeting {
 

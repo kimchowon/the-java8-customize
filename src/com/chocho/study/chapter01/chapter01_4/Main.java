@@ -1,4 +1,4 @@
-package com.chocho.study.chapter04;
+package com.chocho.study.chapter01.chapter01_4;
 
 import java.util.Arrays;
 import java.util.function.Function;
@@ -6,7 +6,7 @@ import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
 /**
- * 메소드 레퍼런스
+ * 1-4.메소드 레퍼런스
  */
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.chocho.study.chapter06;
+package com.chocho.study.chapter03.chapter03_2;
 
 public class OnlineClass {
 

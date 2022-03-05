@@ -1,4 +1,4 @@
-package com.chocho.study.chapter05;
+package com.chocho.study.chapter03.chapter03_1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Stream
+ * 3-1.Stream
  */
 public class Main {
 
