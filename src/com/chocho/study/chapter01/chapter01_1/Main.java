@@ -1,6 +1,9 @@
-package com.chocho.study.chapter01;
+package com.chocho.study.chapter01.chapter01_1;
 
-public class Foo {
+/**
+ * 1-1.함수형 인터페이스와 람다 표현식
+ */
+public class Main {
 
     public static void main(String[] args) {
         // java8 이전

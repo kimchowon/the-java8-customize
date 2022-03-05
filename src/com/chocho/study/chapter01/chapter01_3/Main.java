@@ -1,10 +1,10 @@
-package com.chocho.study.chapter03;
+package com.chocho.study.chapter01.chapter01_3;
 
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 /**
- * 람다 표현식
+ * 1-3.람다 표현식
  */
 public class Main {
     public static void main(String[] args) {

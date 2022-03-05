@@ -1,4 +1,4 @@
-package com.chocho.study.chapter01;
+package com.chocho.study.chapter01.chapter01_1;
 
 @FunctionalInterface
 public interface RunSomething {

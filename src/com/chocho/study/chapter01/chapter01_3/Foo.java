@@ -1,4 +1,4 @@
-package com.chocho.study.chapter03;
+package com.chocho.study.chapter01.chapter01_3;
 
 import java.util.function.Consumer;
 import java.util.function.IntConsumer;

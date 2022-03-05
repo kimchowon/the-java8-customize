@@ -1,4 +1,4 @@
-package com.chocho.study.chapter02;
+package com.chocho.study.chapter01.chapter01_2;
 
 import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
 /**
- * java 8에서 제공하는 함수형 인터페이스
+ * 1-2.java 8에서 제공하는 함수형 인터페이스
  */
 public class Main {
 

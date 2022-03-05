@@ -1,4 +1,4 @@
-package com.chocho.study.chapter02;
+package com.chocho.study.chapter01.chapter01_2;
 
 import java.util.function.Function;
 
